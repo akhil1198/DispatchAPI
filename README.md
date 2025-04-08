@@ -63,4 +63,4 @@ Key features:
 
 ## Deployment
 
-This API is deployed to Azure Functions. The GitHub Actions workflow in this repository handles automatic deployment to Azure on each push to the main branch.
+This API is deployed to Azure Functions.
